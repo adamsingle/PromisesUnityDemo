@@ -39,6 +39,8 @@ namespace Assets.Code
 
         private PromiseTimer promiseTimer = new PromiseTimer();
 
+        public GameObject Player;
+
         void Start()
         {
             filepath = Application.dataPath + "/Data/tutorial.json";
@@ -58,6 +60,7 @@ namespace Assets.Code
         /// </summary>
         public IPromise Move(Vector3 endPos, Vector3 endOrientation)
         {
+            endPos = Player.transform.position + endPos;
             UIPanel.SetActive(false);
             var startPos = transform.position;
             var distance = Vector3.Distance(endPos,startPos);
@@ -102,7 +105,7 @@ namespace Assets.Code
             .Then(() => 
                 promiseTimer.WaitUntil(_ =>
                 {
-                    return Input.GetKeyDown(key);
+                    return Input.GetKeyUp(key);
                 })
             );
         }
@@ -117,7 +120,7 @@ namespace Assets.Code
             {
                 if (waitForInput)
                 {
-                    text += "\nPress Space to continue...";
+                    text += "\n\nPress Space to continue";
                 }
 
                 UIText.text = text;

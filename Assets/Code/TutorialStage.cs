@@ -1,4 +1,5 @@
 ﻿using Newtonsoft.Json;
+using Newtonsoft.Json.Converters;
 using RSG;
 using System;
 using System.Collections.Generic;
@@ -51,6 +52,7 @@ namespace Assets.Code
         /// <summary>
         /// The key that this tutorial stage is prompting the user to press.
         /// </summary>
+        [JsonConverter(typeof(StringEnumConverter))]
         public KeyCode Key { get; set; }
     }
 }

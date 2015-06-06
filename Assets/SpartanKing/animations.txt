@@ -1,0 +1,11 @@
+0-100   : Waiting(idle)
+101-137 : Walking
+138-160 : Running
+161-183 : Charging
+184-234 : Waiting for Battle
+235-270 : Resist with the Shield
+271-352 : Victory
+353-429 : Salute
+430-500 : Dying (Normal)
+501-566 : Dying Hard (Spin)
+567-602 : Swing Sword (Attack)

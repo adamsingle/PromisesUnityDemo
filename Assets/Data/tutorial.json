@@ -1,29 +1,75 @@
 [
   {
-    "CameraPositionX": 10.0,
-    "CameraPositionY": 10.0,
-    "CameraPositionZ": 10.0,
-    "CameraOrientationX": 31.8,
-    "CameraOrientationY": -45.35,
-    "CameraOrientationZ": 0,
-    "TextBoxes": [
-      "test1", 
-      "Press A"
-    ],
-    "Key": 97
-  },
-  {
     "CameraPositionX": 0.0,
-    "CameraPositionY": 10.0,
-    "CameraPositionZ": 10.0,
-    "CameraOrientationX": 4.37066,
+    "CameraPositionY": 4.62,
+    "CameraPositionZ": -10.0,
+    "CameraOrientationX": 15,
     "CameraOrientationY": 0,
     "CameraOrientationZ": 0,
     "TextBoxes": [
-      "test1", 
-      "test2",
-      "and again please"
+      "Welcome to the RSG Promises Demo",
+      "This is not a production level tutorial, it is simply designed to show you the potential of Promises and one way to use the RSG Promise library. \n\nPress Space to continue"
     ],
-    "Key": 97
+    "Key": "Space"
+  },
+  {
+    "CameraPositionX": 8.0,
+    "CameraPositionY": 4.62,
+    "CameraPositionZ": 0,
+    "CameraOrientationX": 15,
+    "CameraOrientationY": -90,
+    "CameraOrientationZ": 0,
+    "TextBoxes": [
+      "You can move forward by pressing 'W'. Try it now."
+    ],
+    "Key": "W"
+  },
+  {
+    "CameraPositionX": 0,
+    "CameraPositionY": 4.62,
+    "CameraPositionZ": 8,
+    "CameraOrientationX": 15,
+    "CameraOrientationY": 180,
+    "CameraOrientationZ": 0,
+    "TextBoxes": [
+      "Press 'A' to move left. Try it now."
+    ],
+    "Key": "A"
+  },
+  {
+    "CameraPositionX": 0,
+    "CameraPositionY": 4.62,
+    "CameraPositionZ": 8,
+    "CameraOrientationX": 15,
+    "CameraOrientationY": 180,
+    "CameraOrientationZ": 0,
+    "TextBoxes": [
+      "And 'D' to move right."
+    ],
+    "Key": "D"
+  },
+  {
+    "CameraPositionX": -8,
+    "CameraPositionY": 1.52,
+    "CameraPositionZ": 0,
+    "CameraOrientationX": 0,
+    "CameraOrientationY": 90,
+    "CameraOrientationZ": 0,
+    "TextBoxes": [
+      "And for a final piece of flair, try pressing 'Q'\n\nPress Space to continue"
+    ],
+    "Key": "Space"
+  },
+  {
+    "CameraPositionX": -8,
+    "CameraPositionY": 21.52,
+    "CameraPositionZ": 0,
+    "CameraOrientationX": 0,
+    "CameraOrientationY": 270,
+    "CameraOrientationZ": 0,
+    "TextBoxes": [
+      ""
+    ],
+    "Key": "Q"
   }
 ]
