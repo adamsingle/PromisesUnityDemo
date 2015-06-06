@@ -1,0 +1,506 @@
+fileFormatVersion: 2
+guid: abfc7e7022cd8314a938aa968a89a9ea
+timeCreated: 1426101331
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Back_FOOT
+    100002: BAckankle
+    100004: BAckankle_Goal
+    100006: BAckfoot
+    100008: BAckfoot_Goal
+    100010: Backleg
+    100012: BAcktoes
+    100014: BAcktoes_Goal
+    100016: head
+    100018: headcontrol
+    100020: hipcontrol
+    100022: hips
+    100024: Joint_1
+    100026: Joint_1_2
+    100028: Joint_1_3
+    100030: Joint_1_4
+    100032: Joint_1_5
+    100034: Joint_2
+    100036: Joint_2_2
+    100038: Joint_2_3
+    100040: Joint_2_4
+    100042: Joint_2_5
+    100044: Joint_3
+    100046: Joint_3_2
+    100048: Joint_3_3
+    100050: Joint_4
+    100052: Joint_4_2
+    100054: Joint_4_3
+    100056: Joint_4_4
+    100058: Joint_5
+    100060: Joint_5_2
+    100062: Joint_5_3
+    100064: Joint_5_4
+    100066: Joint_7
+    100068: Joint_7_2
+    100070: L_ankle
+    100072: L_arm
+    100074: L_foot
+    100076: L_foot_2
+    100078: L_hand
+    100080: L_knee
+    100082: L_leg
+    100084: L_leg_Pole
+    100086: L_toes
+    100088: L_toes_Goal
+    100090: L_wrist
+    100092: L_wrist_Goal
+    100094: mesh
+    100096: R_ankle
+    100098: R_arm
+    100100: R_foot
+    100102: R_foot_2
+    100104: R_hand
+    100106: R_knee
+    100108: R_leg
+    100110: R_leg_Pole
+    100112: R_toes
+    100114: R_toes_Goal
+    100116: R_wrist
+    100118: R_wrist_Goal
+    100120: spine
+    100122: spinecontrol
+    100124: toes
+    100126: //RootNode
+    400000: Back_FOOT
+    400002: BAckankle
+    400004: BAckankle_Goal
+    400006: BAckfoot
+    400008: BAckfoot_Goal
+    400010: Backleg
+    400012: BAcktoes
+    400014: BAcktoes_Goal
+    400016: head
+    400018: headcontrol
+    400020: hipcontrol
+    400022: hips
+    400024: Joint_1
+    400026: Joint_1_2
+    400028: Joint_1_3
+    400030: Joint_1_4
+    400032: Joint_1_5
+    400034: Joint_2
+    400036: Joint_2_2
+    400038: Joint_2_3
+    400040: Joint_2_4
+    400042: Joint_2_5
+    400044: Joint_3
+    400046: Joint_3_2
+    400048: Joint_3_3
+    400050: Joint_4
+    400052: Joint_4_2
+    400054: Joint_4_3
+    400056: Joint_4_4
+    400058: Joint_5
+    400060: Joint_5_2
+    400062: Joint_5_3
+    400064: Joint_5_4
+    400066: Joint_7
+    400068: Joint_7_2
+    400070: L_ankle
+    400072: L_arm
+    400074: L_foot
+    400076: L_foot_2
+    400078: L_hand
+    400080: L_knee
+    400082: L_leg
+    400084: L_leg_Pole
+    400086: L_toes
+    400088: L_toes_Goal
+    400090: L_wrist
+    400092: L_wrist_Goal
+    400094: mesh
+    400096: R_ankle
+    400098: R_arm
+    400100: R_foot
+    400102: R_foot_2
+    400104: R_hand
+    400106: R_knee
+    400108: R_leg
+    400110: R_leg_Pole
+    400112: R_toes
+    400114: R_toes_Goal
+    400116: R_wrist
+    400118: R_wrist_Goal
+    400120: spine
+    400122: spinecontrol
+    400124: toes
+    400126: //RootNode
+    4300000: mesh
+    7400000: tripodIdle
+    7400002: tripodWalk
+    9500000: //RootNode
+    13700000: mesh
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: tripodIdle
+      takeName: C4D Animation Take
+      firstFrame: 0
+      lastFrame: 89
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back_FOOT
+        weight: 1
+      - path: Back_FOOT/BAckankle_Goal
+        weight: 1
+      - path: Back_FOOT/toes
+        weight: 1
+      - path: Back_FOOT/toes/BAckfoot_Goal
+        weight: 1
+      - path: Back_FOOT/toes/BAcktoes_Goal
+        weight: 1
+      - path: hipcontrol
+        weight: 1
+      - path: hipcontrol/spinecontrol
+        weight: 1
+      - path: hipcontrol/spinecontrol/headcontrol
+        weight: 1
+      - path: hipcontrol/spinecontrol/headcontrol/L_wrist_Goal
+        weight: 1
+      - path: hipcontrol/spinecontrol/headcontrol/R_wrist_Goal
+        weight: 1
+      - path: hips
+        weight: 1
+      - path: hips/Backleg
+        weight: 1
+      - path: hips/Backleg/Joint_1_3
+        weight: 1
+      - path: hips/Backleg/Joint_1_3/Joint_2_3
+        weight: 1
+      - path: hips/Backleg/Joint_1_3/Joint_2_3/Joint_3
+        weight: 1
+      - path: hips/Backleg/Joint_1_3/Joint_2_3/Joint_3/BAckankle
+        weight: 1
+      - path: hips/Backleg/Joint_1_3/Joint_2_3/Joint_3/BAckankle/BAckfoot
+        weight: 1
+      - path: hips/Backleg/Joint_1_3/Joint_2_3/Joint_3/BAckankle/BAckfoot/BAcktoes
+        weight: 1
+      - path: hips/L_leg
+        weight: 1
+      - path: hips/L_leg/Joint_1
+        weight: 1
+      - path: hips/L_leg/Joint_1/Joint_2
+        weight: 1
+      - path: hips/L_leg/Joint_1/Joint_2/L_knee
+        weight: 1
+      - path: hips/L_leg/Joint_1/Joint_2/L_knee/Joint_4
+        weight: 1
+      - path: hips/L_leg/Joint_1/Joint_2/L_knee/Joint_4/Joint_5
+        weight: 1
+      - path: hips/L_leg/Joint_1/Joint_2/L_knee/Joint_4/Joint_5/L_ankle
+        weight: 1
+      - path: hips/L_leg/Joint_1/Joint_2/L_knee/Joint_4/Joint_5/L_ankle/Joint_7
+        weight: 1
+      - path: hips/L_leg/Joint_1/Joint_2/L_knee/Joint_4/Joint_5/L_ankle/Joint_7/L_foot_2
+        weight: 1
+      - path: hips/L_leg/Joint_1/Joint_2/L_knee/Joint_4/Joint_5/L_ankle/Joint_7/L_foot_2/L_toes
+        weight: 1
+      - path: hips/R_leg
+        weight: 1
+      - path: hips/R_leg/Joint_1_2
+        weight: 1
+      - path: hips/R_leg/Joint_1_2/Joint_2_2
+        weight: 1
+      - path: hips/R_leg/Joint_1_2/Joint_2_2/R_knee
+        weight: 1
+      - path: hips/R_leg/Joint_1_2/Joint_2_2/R_knee/Joint_4_2
+        weight: 1
+      - path: hips/R_leg/Joint_1_2/Joint_2_2/R_knee/Joint_4_2/Joint_5_2
+        weight: 1
+      - path: hips/R_leg/Joint_1_2/Joint_2_2/R_knee/Joint_4_2/Joint_5_2/R_ankle
+        weight: 1
+      - path: hips/R_leg/Joint_1_2/Joint_2_2/R_knee/Joint_4_2/Joint_5_2/R_ankle/Joint_7_2
+        weight: 1
+      - path: hips/R_leg/Joint_1_2/Joint_2_2/R_knee/Joint_4_2/Joint_5_2/R_ankle/Joint_7_2/R_foot_2
+        weight: 1
+      - path: hips/R_leg/Joint_1_2/Joint_2_2/R_knee/Joint_4_2/Joint_5_2/R_ankle/Joint_7_2/R_foot_2/R_toes
+        weight: 1
+      - path: hips/spine
+        weight: 1
+      - path: hips/spine/head
+        weight: 1
+      - path: hips/spine/head/L_arm
+        weight: 1
+      - path: hips/spine/head/L_arm/Joint_1_4
+        weight: 1
+      - path: hips/spine/head/L_arm/Joint_1_4/Joint_2_4
+        weight: 1
+      - path: hips/spine/head/L_arm/Joint_1_4/Joint_2_4/Joint_3_2
+        weight: 1
+      - path: hips/spine/head/L_arm/Joint_1_4/Joint_2_4/Joint_3_2/Joint_4_3
+        weight: 1
+      - path: hips/spine/head/L_arm/Joint_1_4/Joint_2_4/Joint_3_2/Joint_4_3/Joint_5_3
+        weight: 1
+      - path: hips/spine/head/L_arm/Joint_1_4/Joint_2_4/Joint_3_2/Joint_4_3/Joint_5_3/L_wrist
+        weight: 1
+      - path: hips/spine/head/L_arm/Joint_1_4/Joint_2_4/Joint_3_2/Joint_4_3/Joint_5_3/L_wrist/L_hand
+        weight: 1
+      - path: hips/spine/head/R_arm
+        weight: 1
+      - path: hips/spine/head/R_arm/Joint_1_5
+        weight: 1
+      - path: hips/spine/head/R_arm/Joint_1_5/Joint_2_5
+        weight: 1
+      - path: hips/spine/head/R_arm/Joint_1_5/Joint_2_5/Joint_3_3
+        weight: 1
+      - path: hips/spine/head/R_arm/Joint_1_5/Joint_2_5/Joint_3_3/Joint_4_4
+        weight: 1
+      - path: hips/spine/head/R_arm/Joint_1_5/Joint_2_5/Joint_3_3/Joint_4_4/Joint_5_4
+        weight: 1
+      - path: hips/spine/head/R_arm/Joint_1_5/Joint_2_5/Joint_3_3/Joint_4_4/Joint_5_4/R_wrist
+        weight: 1
+      - path: hips/spine/head/R_arm/Joint_1_5/Joint_2_5/Joint_3_3/Joint_4_4/Joint_5_4/R_wrist/R_hand
+        weight: 1
+      - path: L_foot
+        weight: 1
+      - path: L_foot/L_toes_Goal
+        weight: 1
+      - path: L_leg_Pole
+        weight: 1
+      - path: mesh
+        weight: 1
+      - path: R_foot
+        weight: 1
+      - path: R_foot/R_toes_Goal
+        weight: 1
+      - path: R_leg_Pole
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: tripodWalk
+      takeName: C4D Animation Take
+      firstFrame: 91
+      lastFrame: 140
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Back_FOOT
+        weight: 1
+      - path: Back_FOOT/BAckankle_Goal
+        weight: 1
+      - path: Back_FOOT/toes
+        weight: 1
+      - path: Back_FOOT/toes/BAckfoot_Goal
+        weight: 1
+      - path: Back_FOOT/toes/BAcktoes_Goal
+        weight: 1
+      - path: hipcontrol
+        weight: 1
+      - path: hipcontrol/spinecontrol
+        weight: 1
+      - path: hipcontrol/spinecontrol/headcontrol
+        weight: 1
+      - path: hipcontrol/spinecontrol/headcontrol/L_wrist_Goal
+        weight: 1
+      - path: hipcontrol/spinecontrol/headcontrol/R_wrist_Goal
+        weight: 1
+      - path: hips
+        weight: 1
+      - path: hips/Backleg
+        weight: 1
+      - path: hips/Backleg/Joint_1_3
+        weight: 1
+      - path: hips/Backleg/Joint_1_3/Joint_2_3
+        weight: 1
+      - path: hips/Backleg/Joint_1_3/Joint_2_3/Joint_3
+        weight: 1
+      - path: hips/Backleg/Joint_1_3/Joint_2_3/Joint_3/BAckankle
+        weight: 1
+      - path: hips/Backleg/Joint_1_3/Joint_2_3/Joint_3/BAckankle/BAckfoot
+        weight: 1
+      - path: hips/Backleg/Joint_1_3/Joint_2_3/Joint_3/BAckankle/BAckfoot/BAcktoes
+        weight: 1
+      - path: hips/L_leg
+        weight: 1
+      - path: hips/L_leg/Joint_1
+        weight: 1
+      - path: hips/L_leg/Joint_1/Joint_2
+        weight: 1
+      - path: hips/L_leg/Joint_1/Joint_2/L_knee
+        weight: 1
+      - path: hips/L_leg/Joint_1/Joint_2/L_knee/Joint_4
+        weight: 1
+      - path: hips/L_leg/Joint_1/Joint_2/L_knee/Joint_4/Joint_5
+        weight: 1
+      - path: hips/L_leg/Joint_1/Joint_2/L_knee/Joint_4/Joint_5/L_ankle
+        weight: 1
+      - path: hips/L_leg/Joint_1/Joint_2/L_knee/Joint_4/Joint_5/L_ankle/Joint_7
+        weight: 1
+      - path: hips/L_leg/Joint_1/Joint_2/L_knee/Joint_4/Joint_5/L_ankle/Joint_7/L_foot_2
+        weight: 1
+      - path: hips/L_leg/Joint_1/Joint_2/L_knee/Joint_4/Joint_5/L_ankle/Joint_7/L_foot_2/L_toes
+        weight: 1
+      - path: hips/R_leg
+        weight: 1
+      - path: hips/R_leg/Joint_1_2
+        weight: 1
+      - path: hips/R_leg/Joint_1_2/Joint_2_2
+        weight: 1
+      - path: hips/R_leg/Joint_1_2/Joint_2_2/R_knee
+        weight: 1
+      - path: hips/R_leg/Joint_1_2/Joint_2_2/R_knee/Joint_4_2
+        weight: 1
+      - path: hips/R_leg/Joint_1_2/Joint_2_2/R_knee/Joint_4_2/Joint_5_2
+        weight: 1
+      - path: hips/R_leg/Joint_1_2/Joint_2_2/R_knee/Joint_4_2/Joint_5_2/R_ankle
+        weight: 1
+      - path: hips/R_leg/Joint_1_2/Joint_2_2/R_knee/Joint_4_2/Joint_5_2/R_ankle/Joint_7_2
+        weight: 1
+      - path: hips/R_leg/Joint_1_2/Joint_2_2/R_knee/Joint_4_2/Joint_5_2/R_ankle/Joint_7_2/R_foot_2
+        weight: 1
+      - path: hips/R_leg/Joint_1_2/Joint_2_2/R_knee/Joint_4_2/Joint_5_2/R_ankle/Joint_7_2/R_foot_2/R_toes
+        weight: 1
+      - path: hips/spine
+        weight: 1
+      - path: hips/spine/head
+        weight: 1
+      - path: hips/spine/head/L_arm
+        weight: 1
+      - path: hips/spine/head/L_arm/Joint_1_4
+        weight: 1
+      - path: hips/spine/head/L_arm/Joint_1_4/Joint_2_4
+        weight: 1
+      - path: hips/spine/head/L_arm/Joint_1_4/Joint_2_4/Joint_3_2
+        weight: 1
+      - path: hips/spine/head/L_arm/Joint_1_4/Joint_2_4/Joint_3_2/Joint_4_3
+        weight: 1
+      - path: hips/spine/head/L_arm/Joint_1_4/Joint_2_4/Joint_3_2/Joint_4_3/Joint_5_3
+        weight: 1
+      - path: hips/spine/head/L_arm/Joint_1_4/Joint_2_4/Joint_3_2/Joint_4_3/Joint_5_3/L_wrist
+        weight: 1
+      - path: hips/spine/head/L_arm/Joint_1_4/Joint_2_4/Joint_3_2/Joint_4_3/Joint_5_3/L_wrist/L_hand
+        weight: 1
+      - path: hips/spine/head/R_arm
+        weight: 1
+      - path: hips/spine/head/R_arm/Joint_1_5
+        weight: 1
+      - path: hips/spine/head/R_arm/Joint_1_5/Joint_2_5
+        weight: 1
+      - path: hips/spine/head/R_arm/Joint_1_5/Joint_2_5/Joint_3_3
+        weight: 1
+      - path: hips/spine/head/R_arm/Joint_1_5/Joint_2_5/Joint_3_3/Joint_4_4
+        weight: 1
+      - path: hips/spine/head/R_arm/Joint_1_5/Joint_2_5/Joint_3_3/Joint_4_4/Joint_5_4
+        weight: 1
+      - path: hips/spine/head/R_arm/Joint_1_5/Joint_2_5/Joint_3_3/Joint_4_4/Joint_5_4/R_wrist
+        weight: 1
+      - path: hips/spine/head/R_arm/Joint_1_5/Joint_2_5/Joint_3_3/Joint_4_4/Joint_5_4/R_wrist/R_hand
+        weight: 1
+      - path: L_foot
+        weight: 1
+      - path: L_foot/L_toes_Goal
+        weight: 1
+      - path: L_leg_Pole
+        weight: 1
+      - path: mesh
+        weight: 1
+      - path: R_foot
+        weight: 1
+      - path: R_foot/R_toes_Goal
+        weight: 1
+      - path: R_leg_Pole
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

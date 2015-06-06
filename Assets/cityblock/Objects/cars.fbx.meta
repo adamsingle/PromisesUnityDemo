@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: 75d598cd2a670cf49a2ac05a68c27f04
+timeCreated: 1426066180
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: base
+    100002: //RootNode
+    100004: L_back
+    100006: L_back_2
+    100008: L_DOOR
+    100010: L_door
+    100012: L_front
+    100014: L_front_2
+    100016: old_car1
+    100018: pickup
+    100020: pickup_1
+    100022: R_Back
+    100024: R_back
+    100026: R_DOOR
+    100028: R_Door
+    100030: R_front
+    100032: R_front_2
+    100034: steer
+    100036: steer_2
+    100038: wheels
+    100040: wheels_2
+    100042: window
+    100044: window_2
+    100046: window_3
+    100048: window_4
+    100050: window_5
+    100052: windows
+    400000: base
+    400002: //RootNode
+    400004: L_back
+    400006: L_back_2
+    400008: L_DOOR
+    400010: L_door
+    400012: L_front
+    400014: L_front_2
+    400016: old_car1
+    400018: pickup
+    400020: pickup_1
+    400022: R_Back
+    400024: R_back
+    400026: R_DOOR
+    400028: R_Door
+    400030: R_front
+    400032: R_front_2
+    400034: steer
+    400036: steer_2
+    400038: wheels
+    400040: wheels_2
+    400042: window
+    400044: window_2
+    400046: window_3
+    400048: window_4
+    400050: window_5
+    400052: windows
+    2300000: base
+    2300002: L_back
+    2300004: L_back_2
+    2300006: L_DOOR
+    2300008: L_door
+    2300010: L_front
+    2300012: L_front_2
+    2300014: pickup_1
+    2300016: R_Back
+    2300018: R_back
+    2300020: R_DOOR
+    2300022: R_Door
+    2300024: R_front
+    2300026: R_front_2
+    2300028: steer
+    2300030: steer_2
+    2300032: window
+    2300034: window_2
+    2300036: window_3
+    2300038: window_4
+    2300040: window_5
+    2300042: windows
+    3300000: base
+    3300002: L_back
+    3300004: L_back_2
+    3300006: L_DOOR
+    3300008: L_door
+    3300010: L_front
+    3300012: L_front_2
+    3300014: pickup_1
+    3300016: R_Back
+    3300018: R_back
+    3300020: R_DOOR
+    3300022: R_Door
+    3300024: R_front
+    3300026: R_front_2
+    3300028: steer
+    3300030: steer_2
+    3300032: window
+    3300034: window_2
+    3300036: window_3
+    3300038: window_4
+    3300040: window_5
+    3300042: windows
+    4300000: windows
+    4300002: steer
+    4300004: R_DOOR
+    4300006: window
+    4300008: L_DOOR
+    4300010: window_2
+    4300012: L_front
+    4300014: R_front
+    4300016: L_back
+    4300018: R_Back
+    4300020: base
+    4300022: pickup_1
+    4300024: steer_2
+    4300026: R_Door
+    4300028: window_3
+    4300030: L_door
+    4300032: window_4
+    4300034: window_5
+    4300036: L_back_2
+    4300038: R_back
+    4300040: R_front_2
+    4300042: L_front_2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

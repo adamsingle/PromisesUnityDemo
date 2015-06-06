@@ -1,0 +1,29 @@
+[
+  {
+    "CameraPositionX": 10.0,
+    "CameraPositionY": 10.0,
+    "CameraPositionZ": 10.0,
+    "CameraOrientationX": 31.8,
+    "CameraOrientationY": -45.35,
+    "CameraOrientationZ": 0,
+    "TextBoxes": [
+      "test1", 
+      "Press A"
+    ],
+    "Key": 97
+  },
+  {
+    "CameraPositionX": 0.0,
+    "CameraPositionY": 10.0,
+    "CameraPositionZ": 10.0,
+    "CameraOrientationX": 4.37066,
+    "CameraOrientationY": 0,
+    "CameraOrientationZ": 0,
+    "TextBoxes": [
+      "test1", 
+      "test2",
+      "and again please"
+    ],
+    "Key": 97
+  }
+]

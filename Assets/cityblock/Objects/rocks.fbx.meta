@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: eeb3632666b6c6145bcd5e7310c6b477
+timeCreated: 1425686758
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: detailstone1
+    100002: detailstone2
+    100004: fillers
+    100006: rock1
+    100008: rock1_1
+    100010: rock1_2
+    100012: rock1_3
+    100014: rock1_4
+    100016: rock2
+    100018: rock2_1
+    100020: rock3
+    100022: rock3_1
+    100024: rockarc1
+    100026: //RootNode
+    100028: rocks1
+    100030: rocks1_1
+    400000: detailstone1
+    400002: detailstone2
+    400004: fillers
+    400006: rock1
+    400008: rock1_1
+    400010: rock1_2
+    400012: rock1_3
+    400014: rock1_4
+    400016: rock2
+    400018: rock2_1
+    400020: rock3
+    400022: rock3_1
+    400024: rockarc1
+    400026: //RootNode
+    400028: rocks1
+    400030: rocks1_1
+    2300000: detailstone1
+    2300002: detailstone2
+    2300004: rock1
+    2300006: rock1_1
+    2300008: rock1_2
+    2300010: rock1_3
+    2300012: rock1_4
+    2300014: rock2
+    2300016: rock2_1
+    2300018: rock3
+    2300020: rock3_1
+    2300022: rockarc1
+    2300024: rocks1
+    2300026: rocks1_1
+    3300000: detailstone1
+    3300002: detailstone2
+    3300004: rock1
+    3300006: rock1_1
+    3300008: rock1_2
+    3300010: rock1_3
+    3300012: rock1_4
+    3300014: rock2
+    3300016: rock2_1
+    3300018: rock3
+    3300020: rock3_1
+    3300022: rockarc1
+    3300024: rocks1
+    3300026: rocks1_1
+    4300000: rocks1
+    4300002: rocks1_1
+    4300004: detailstone1
+    4300006: detailstone2
+    4300008: rock3
+    4300010: rock3_1
+    4300012: rock2
+    4300014: rock2_1
+    4300016: rock1
+    4300018: rock1_4
+    4300020: rock1_1
+    4300022: rock1_3
+    4300024: rock1_2
+    4300026: rockarc1
+    6400000: detailstone1
+    6400002: detailstone2
+    6400004: rock1
+    6400006: rock1_1
+    6400008: rock1_2
+    6400010: rock1_3
+    6400012: rock1_4
+    6400014: rock2
+    6400016: rock2_1
+    6400018: rock3
+    6400020: rock3_1
+    6400022: rockarc1
+    6400024: rocks1
+    6400026: rocks1_1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 3
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
